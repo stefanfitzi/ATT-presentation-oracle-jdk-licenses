@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+CONTRIBUTING.md
+bower.json
+Gruntfile.js
+LICENSE
+package.json
+presentation.iml
+README_revealJs.md
+
